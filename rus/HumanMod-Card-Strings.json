@@ -1,15 +1,15 @@
 {
   "theHuman:OrbSkill": {
-    "NAME": "Получить Сферу",
+    "NAME": "Зарядить Сферу",
     "DESCRIPTION": "Заряжает 1 Обычную Сферу."
   },
   "theHuman:Slap": {
-    "NAME": "Slap",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "Пощёчина",
+    "DESCRIPTION": "Наносит !D! урона."
   },
   "theHuman:Defend": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block. NL [#34eb52]Pacifist: Gain !B! Peaceful instead."
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты. NL [#34eb52]Пацифист: Даёт !B! Миротворчества вместо этого."
   },
   "theHuman:KungFu": {
     "NAME": "Kung Fu!",
@@ -46,7 +46,7 @@
   },
   "theHuman:BackhandSlap": {
     "NAME": "Backhand Slap",
-    "DESCRIPTION": "Deal !D! damage and apply !M! *Injured to an enemy. NL If this card is discarded, deal !D! damage to ALL enemies."
+    "DESCRIPTION": "Deal !D! damage and apply !M! Injured to an enemy. NL If this card is discarded, deal !D! damage to ALL enemies."
   },
   "theHuman:DumpsterDiving": {
     "NAME": "Dumpster Diving",
@@ -167,11 +167,11 @@
   },
   "theHuman:FuriousSlap": {
     "NAME": "Furious Slap",
-    "DESCRIPTION": "Deal !D! damage to an enemy. NL Shuffle a copy of this into your draw pile. NL Draw a card."
+    "DESCRIPTION": "Deal !D! damage and apply !M! Injured to an enemy. NL Shuffle a copy of this into your draw pile. NL Draw a card."
   },
   "theHuman:Slaptacular": {
     "NAME": "Slaptacular",
-    "DESCRIPTION": "Deal !D! damage to all enemies. Replay all Slaps played this combat."
+    "DESCRIPTION": "Deal !D! damage and apply !M! Injured to all enemies. NL Replay all Slaps played this combat."
   },
   "theHuman:TrashToTreasure": {
     "NAME": "Trash To Treasure",
